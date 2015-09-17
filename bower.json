@@ -1,0 +1,21 @@
+{
+  "name": "es6-prototype-proj",
+  "version": "0.0.93",
+  "homepage": "https://github.com/alexkval/es6-prototype-proj",
+  "author": {
+    "name": "Alexander",
+    "email": "alexkval@gmail.com"
+  },
+  "license": "MIT",
+  "main": "lib/index.js",
+  "bugs": {
+    "url": "https://github.com/alexkval/es6-prototype-proj/issues"
+  },
+  "keywords": [
+    "playground",
+    "prototype"
+  ],
+  "ignore": [
+    "**/.*"
+  ]
+}
